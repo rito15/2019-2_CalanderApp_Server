@@ -1,0 +1,38 @@
+{
+  "id"           : "user2",
+  "title"        : "스케줄이름1",
+  "category"     : "카테고리이름1",
+  "startTime"    : "시작시간스트링",
+  "endTime"      : "종료시간스트링",
+  "allDay"       : true,
+  "color"        : "red",
+
+  "textarea" :
+  [
+    {
+      "name" : "이름1",
+      "contents" : "내용내용"
+    }
+  ],
+  "input" :
+  [
+    {
+      "name" : "이름1",
+      "contents" : "내용내용"
+    }
+  ],
+  "checkbox" :
+  [
+    {
+      "name" : "이름1",
+      "contents" : true
+    }
+  ],
+  "radio" :
+  [
+    {
+      "name" : "이름1",
+      "contents" : true
+    }
+  ]
+}

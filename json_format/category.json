@@ -1,0 +1,9 @@
+{
+  "id"        : "user2",
+  "title"     : "카테고리이름1",
+  "color"     : "red",
+  "textarea"  : ["", ""],
+  "input"     : ["", ""],
+  "checkbox"  : ["", ""],
+  "radio"     : ["", ""]
+}
